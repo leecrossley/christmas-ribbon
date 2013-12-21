@@ -2,8 +2,6 @@
 
 Add the [iLee](http://ilee.co.uk) Christmas ribbon to your website!
 
-## To add
-
 ### HTML
 
 Place this directly after your opening `<body>` tag:
