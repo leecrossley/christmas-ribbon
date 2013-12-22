@@ -20,7 +20,6 @@ Place this directly after your opening `<body>` tag:
 .christmas-ribbon-wrapper {
     width: 150px;
     height: 150px;
-    position: absolute;
     position: fixed;
     overflow: hidden;
     top: 0;
